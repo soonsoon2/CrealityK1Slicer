@@ -1,5 +1,12 @@
 # CrealityK1Slicer
 
+# Soonsoon Parameter Project - Good Quality parameter setting with Creality 3D
+
+https://www.soonsoon.io/creality-k1-slicer-high-quality-soonsoon/
+
+
+# Fast Parameter with eSun PLA+
+
 This git repository is for the settings of Creative 3D, a dedicated slicer for **Creality's 3d printer K1**.
 
 It is a custom-adjusted value for speed, acceleration, jerk speed, filling rate, cooling time, etc. from the default setting value.
